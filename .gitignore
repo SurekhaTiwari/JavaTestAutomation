@@ -1,0 +1,9 @@
+# Java build artifacts
+bin/
+target/
+test-output/
+*.class
+
+# IDE / OS noise
+.settings/
+.DS_Store
