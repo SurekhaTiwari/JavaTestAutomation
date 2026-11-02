@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="API and Selenium Suite">
+  <test name="API Tests">
+    <classes>
+      <class name="com.qa.api.ApiTests"/>
+    </classes>
+  </test>
+  <test name="UI Tests">
+    <classes>
+      <class name="com.qa.ui.LoginUiTest"/>
+    </classes>
+  </test>
+</suite>
